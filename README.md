@@ -4,8 +4,12 @@
 
 **MNN Developer | On-Device AI & LLM Enthusiast**
 
-[![GitHub followers](https://img.shields.io/github/followers/wangzhaode?label=Followers&style=for-the-badge)](https://github.com/wangzhaode)
-[![GitHub stars](https://img.shields.io/github/stars/wangzhaode?label=Stars&style=for-the-badge)](https://github.com/wangzhaode)
+<a href="https://github.com/wangzhaode?tab=followers">
+  <img src="https://img.shields.io/github/followers/wangzhaode?label=Followers&style=for-the-badge" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/wangzhaode?tab=repositories">
+  <img src="https://img.shields.io/github/stars/wangzhaode?label=Stars&style=for-the-badge" alt="GitHub stars"/>
+</a>
 
 </div>
 
@@ -24,32 +28,20 @@ I'm an Inference Engine Technology Expert at **Alibaba (Taotian Group)**, workin
 
 ### 🚀 Featured Projects
 
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [llm-export](https://github.com/wangzhaode/llm-export) | ![Stars](https://img.shields.io/github/stars/wangzhaode/llm-export?style=flat-square) | Export LLM models to ONNX format for cross-platform deployment |
-| [tokenizer.cpp](https://github.com/wangzhaode/tokenizer.cpp) | ![Stars](https://img.shields.io/github/stars/wangzhaode/tokenizer.cpp?style=flat-square) | Lightweight C++ library for LLM tokenization (HuggingFace compatible) |
-| [mnn-asr](https://github.com/wangzhaode/mnn-asr) | ![Stars](https://img.shields.io/github/stars/wangzhaode/mnn-asr?style=flat-square) | MNN-based Automatic Speech Recognition demo |
-| [mnn-tts](https://github.com/wangzhaode/mnn-tts) | ![Stars](https://img.shields.io/github/stars/wangzhaode/mnn-tts?style=flat-square) | MNN-based Text-to-Speech demo |
-| [jinja.cpp](https://github.com/wangzhaode/jinja.cpp) | ![Stars](https://img.shields.io/github/stars/wangzhaode/jinja.cpp?style=flat-square) | Single-header C++11 Jinja2 engine for LLM chat templates |
-| [llm-lab](https://github.com/wangzhaode/llm-lab) | ![Stars](https://img.shields.io/github/stars/wangzhaode/llm-lab?style=flat-square) | LLM experiments and research notes |
-
----
-
-### 🛠️ Tech Stack
-
-`C++` `Python` `LLM Inference` `ONNX``Quantization` `CUDA``ARM``Metal``OpenCL``MNN``PyTorch`
+| Project | Description |
+|---------|-------------|
+| [**llm-export**](https://github.com/wangzhaode/llm-export) ⭐ 344 | Export LLM models to ONNX format for cross-platform deployment |
+| [**tokenizer.cpp**](https://github.com/wangzhaode/tokenizer.cpp) ⭐ 24 | Lightweight C++ library for LLM tokenization (HuggingFace compatible) |
+| [**mnn-asr**](https://github.com/wangzhaode/mnn-asr) ⭐ 25 | MNN-based Automatic Speech Recognition demo |
+| [**mnn-tts**](https://github.com/wangzhaode/mnn-tts) ⭐ 19 | MNN-based Text-to-Speech demo |
+| [**jinja.cpp**](https://github.com/wangzhaode/jinja.cpp) ⭐ 18 | Single-header C++11 Jinja2 engine for LLM chat templates |
+| [**llm-lab**](https://github.com/wangzhaode/llm-lab) ⭐ 9 | LLM experiments and research notes |
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-[![wangzhaode's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzhaode&show_icons=true&theme=default&hide_border=true)](https://github.com/wangzhaode/wangzhaode)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhaode&layout=compact&hide_border=true)](https://github.com/wangzhaode/wangzhaode)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=wangzhaode&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
 ---
 
